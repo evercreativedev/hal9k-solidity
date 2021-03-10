@@ -1,0 +1,14 @@
+{
+  "contracts": {},
+  "solidityLibs": {},
+  "proxies": {
+    "hal9k/HAL9KNFTPool": [
+      {
+        "address": "0x0BFbed89a6ada0e502540F6E23cfbfaD9a13866b",
+        "kind": "NonProxy",
+        "bytecodeHash": "0af0d122e651dd96ee3378596b22d3699652723f07c8cc62968eef01a20cc990"
+      }
+    ]
+  },
+  "manifestVersion": "2.2"
+}

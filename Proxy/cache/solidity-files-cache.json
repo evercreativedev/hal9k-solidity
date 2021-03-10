@@ -1,0 +1,97 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "D:\\work\\dennisjin\\HAL\\hal9k\\Proxy\\contracts\\AdminUpgradeabilityProxy.sol": {
+      "lastModificationDate": 1612221270093,
+      "contentHash": "7d4007f975fb2910a67ef44d5a412adc",
+      "sourceName": "contracts/AdminUpgradeabilityProxy.sol",
+      "solcConfig": {
+        "version": "0.5.0",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 4000
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.5.0",
+        "^0.5.0",
+        "^0.5.0",
+        "^0.5.0",
+        "^0.5.0",
+        "^0.5.0"
+      ],
+      "artifacts": [
+        "AdminUpgradeabilityProxy",
+        "BaseAdminUpgradeabilityProxy",
+        "BaseUpgradeabilityProxy",
+        "OpenZeppelinUpgradesAddress",
+        "Proxy",
+        "UpgradeabilityProxy"
+      ]
+    },
+    "D:\\work\\dennisjin\\HAL\\hal9k\\Proxy\\contracts\\ProxyAdmin.sol": {
+      "lastModificationDate": 1612221270094,
+      "contentHash": "3f72fd9f1709f98504ba5bac01aa612e",
+      "sourceName": "contracts/ProxyAdmin.sol",
+      "solcConfig": {
+        "version": "0.5.0",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 4000
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.5.0",
+        "^0.5.0",
+        "^0.5.0",
+        "^0.5.0",
+        "^0.5.0",
+        "^0.5.0",
+        "^0.5.0",
+        "^0.5.0"
+      ],
+      "artifacts": [
+        "AdminUpgradeabilityProxy",
+        "BaseAdminUpgradeabilityProxy",
+        "BaseUpgradeabilityProxy",
+        "OpenZeppelinUpgradesAddress",
+        "OpenZeppelinUpgradesOwnable",
+        "Proxy",
+        "ProxyAdmin",
+        "UpgradeabilityProxy"
+      ]
+    }
+  }
+}
